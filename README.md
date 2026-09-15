@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://github.com/users/Thv0n9K1nG/achievements/pull-shark)](https://github.com/)
+[![GitHub](img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 [![CTF](https://img.shields.io/badge/CTF-000000?style=for-the-badge\&logo=hackthebox\&logoColor=00FF9C)](https://tryhackme.com/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)](https://www.linux.org/)
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://www.python.org/)
