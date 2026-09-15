@@ -2,7 +2,7 @@
 
 # `H4CK3RL0R`
 
-### `INFORMATION SECURITY // SYSTEMS // OFFENSIVE SECURITY`
+### `INFORMATION SECURITY // RED TEAM // OFFENSIVE SECURITY`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Breaking+systems+to+understand+them.;Learning+how+machines+actually+work.;PWN+%7C+RE+%7C+WEB+%7C+LINUX;CTF+player+%7C+Security+student+%7C+Builder" alt="Typing SVG" />
 
